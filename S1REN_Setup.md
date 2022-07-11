@@ -20,3 +20,16 @@ create a folder for files, vulns
 ###SMB NULL SESSION (discovered during enun4linux
 
     smbclient //'IPADDRESS'/DIRECTOR -N 
+
+
+
+
+
+
+apt install seclists , it will normally be located at /usr/share/Seclists/....
+
+
+
+
+
+
